@@ -104,4 +104,14 @@ button:disable {
     .login-box {
         width: 90%;
     }
+
+}
+.info {
+  background: #fff3cd;
+  color: #856404;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ffeeba;
+  border-radius: 4px;
+  font-size: 14px;
 }
